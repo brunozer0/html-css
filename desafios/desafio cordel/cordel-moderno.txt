@@ -65,3 +65,31 @@ Se quiser, faça esse teste
 Dois pontos são dois joelhos
 Seus lábios são aparelhos
 Deixe que Deus interprete.
+
+
+
+
+1	 São Paulo	
+2	 Minas Gerais75 000)
+3	 Rio de Janeiro8)
+4	Bahia Bahia0)
+5	 Paraná	651)
+6	 Rio Grande do Sul	59)
+7	 Pernambuco	 300)
+8	 Cearáidos (9 157 000)
+9	Pará Pará2)
+10	 Santa Catarina)
+11	 Goiás06)
+12	 Maranhão	)
+13	 Amazonas)
+14	 Espírito Santo	
+15	 Paraíba
+16	 Mato Grosso6)
+17	 Rio Grande do Norte6)
+18	 Alagoas)
+19	 Piauí
+20	 Distrito Federal87)
+21	 Mato Grosso do Sul1)
+22	 Sergipe0)
+23	 Rondônia	24	 Tocantins0)
+25	 Acreapáraima
